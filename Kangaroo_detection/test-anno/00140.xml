@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00140.jpg</filename>
+	<path>C:\Users\nithi\COLAB PROJECTS\images\00140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>964</width>
+		<height>742</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kangaroo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>36</ymin>
+			<xmax>494</xmax>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+</annotation>
